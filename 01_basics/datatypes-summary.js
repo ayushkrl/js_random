@@ -46,4 +46,11 @@ console.log(typeof bigNumber);
 
 
 
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//  Stack (Primitive), Heap(Non-Primitive)
+
+
+
+
 
